@@ -31,8 +31,7 @@ instalar_aplicacao() {
             mkdir /home/$USER/Desktop/Quality-System
             cd /home/$USER/Desktop/Quality-System
 
-            git clone https://github.com/Ogabrielmonteiro/jar.git
-
+            git clone https://github.com/Ogabrielmonteiro/jar-individual.git
             sleep 1
 
             abrir_software
