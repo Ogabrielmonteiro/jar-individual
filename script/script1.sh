@@ -12,7 +12,7 @@ instalar_docker() {
     if [ $? -eq 0 ]
     then
         echo "$(tput setaf 10)[Manivela]:$(tput setaf 7) Você já possui o docker instalado!"
-        sudo docker start 30a2412120b1
+        sudo docker start ConteinerAC3
 
         verificar_java
         
